@@ -1,0 +1,253 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    background-color: #5e306d;
+    position: relative;
+}
+
+.logo-text {
+    float: right;
+    padding-top: 20px;
+    padding-right: 60px;
+}
+
+/* Box Logo Text */
+.logo-text-th {
+    font-size: 40px;
+    color: white;
+
+}
+
+.logo-text-en {
+    font-size: 15px;
+    display: block;
+    color: white;
+    padding-top: -5px;
+}
+
+/* Contact */
+.top-social {
+    display: flex;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+
+ul.list-line {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 10px;
+}
+
+/* About navbar */
+
+#navbar-box {
+    padding-top: 30px;
+    position: sticky;
+}
+
+#navbar {
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top: 10px;
+}
+
+.nav-item:hover {
+    box-shadow: 0 0 20px black;
+    border-radius: 10px;
+
+}
+
+
+/* About content any page */
+main {
+    margin-top: 10px;
+}
+
+.container#content {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.col-md-12#content-info-1 {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+
+
+/* Page Uniform student */
+#content-uniform {
+    padding-top: 60px;
+}
+
+
+
+
+/* Page FQA */
+
+.col-md-12#content-info-fpa {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+/* Page reporting */
+
+#content-info-reporting-system {
+    padding-top: 50px;
+}
+
+/* Page dormitories */
+
+#content-info-gradsara {
+    padding-top: 50px;
+}
+
+#content-info-laddawan {
+    padding-top: 50px;
+}
+
+#content-info-the-north {
+    padding-top: 50px;
+}
+
+#content-info-bann-sin-suk {
+    padding-top: 50px;
+}
+
+#content-info-the-paj-sa-wang {
+    padding-top: 50px;
+}
+
+#content-info-tean-mansion {
+    padding-top: 50px;
+}
+
+#content-info-matulodtown {
+    padding-top: 50px;
+}
+
+#content-info-nitibukkul {
+    padding-top: 50px;
+}
+
+#content-info-rama-5-place {
+    padding-top: 50px;
+}
+
+#content-info-sombul-pinyo {
+    padding-top: 50px;
+}
+
+#content-info-sy-jaroensuk {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+
+
+/* Page resturrants */
+#content-info-restur-bann-sin-suk {
+    padding-top: 50px;
+}
+
+#content-info-restur-beer-fired-rice-crab {
+    padding-top: 50px;
+}
+
+#content-info-restur-charm-chicken {
+    padding-top: 50px;
+}
+
+#content-info-restur-jo-shabu {
+    padding-top: 50px;
+}
+
+#content-info-restur-kho-kun {
+    padding-top: 50px;
+}
+
+#content-info-restur-khong-tib {
+    padding-top: 50px;
+}
+
+#content-info-restur-o-yua {
+    padding-top: 50px;
+}
+
+#content-info-restur-pa-ja-roen {
+    padding-top: 50px;
+}
+
+#content-info-restur-rim-suan {
+    padding-top: 50px;
+}
+
+#content-info-restur-rocket {
+    padding-top: 50px;
+}
+
+#content-info-restur-rung-kub-pa {
+    padding-top: 50px;
+}
+
+#content-info-restur-smo-cafe {
+    padding-top: 50px;
+}
+
+#content-info-restur-studio-70-cafe {
+    padding-top: 50px;
+}
+
+#content-info-restur-the-north {
+    padding-top: 50px;
+}
+
+#content-info-restur-rim-suan {
+    padding-top: 50px;
+}
+
+#content-info-restur-timber-cafe {
+    padding-top: 50px;
+}
+
+#content-info-restur-waiting-floor {
+    padding-top: 50px;
+}
+
+#content-info-restur-wa-grill {
+    padding-top: 50px;
+}
+
+#content-info-restur-zaru-shushi {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+/* About footer any page */
+#footer {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top: 10px;
+    margin-top: 10px;
+}
