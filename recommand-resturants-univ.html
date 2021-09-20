@@ -81,7 +81,17 @@
                     <!-- bann sin suk -->
                     <div class="container d-flex justify-content-center" id="content-info-restur-bann-sin-suk">
                         <div class="col-md-10">
-                            <h1 class="font-weight-bold border-bottom" style="padding-bottom: 10px;">บ้านสินสุข (แพนด้าสุกี้)</h1>                           
+                            <script>
+                                document.write("Latest update :")
+                            </script>
+                            <span id="myTime"></span>
+                            <script>
+                                    
+                                var x = document.lastModified;
+                                document.getElementById("myTime").innerHTML = x;
+                                
+                            </script>
+                            <h1 class="font-weight-bold border-bottom" style="padding-bottom: 10px; padding-top: 10px;">บ้านสินสุข (แพนด้าสุกี้)</h1>                           
                             <p>แพนด้าสุกี้
                                 1483 ถนน พิบูลสงคราม แขวง วงศ์สว่าง เขตบางซื่อ กรุงเทพมหานคร 10800 
                                 เบอร์ 080 546 5688
